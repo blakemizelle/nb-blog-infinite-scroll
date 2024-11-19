@@ -21,11 +21,7 @@ This template provides a modern infinite scroll solution for NationBuilder blogs
 - 🎯 Edge case handling
 
 ## Implementation
-
-### Required Files
-templates/
-└── blog.html
-
+**Implementation Note**: This template modifies NationBuilder's default Bootstrap blog template and should only be used to replace existing NationBuilder blog page templates.
 
 ### Setup
 
