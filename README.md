@@ -27,14 +27,14 @@ This template provides a modern infinite scroll solution for NationBuilder blogs
 
 A live implementation of this template can be viewed at [demo-blakemizelle.nationbuilder.com/test_blog](https://demo-blakemizelle.nationbuilder.com/test_blog).
 
-### Setup
+## Setup
 
 1. Create or edit a blog page in NationBuilder admin
 2. Replace the default template with contents of `blog.html`
 3. Publish changes
 4. Test scroll functionality
 
-## Customization
+### Customization
 
 You can easily customize:
 - Initial post count (`limit: 5`)
