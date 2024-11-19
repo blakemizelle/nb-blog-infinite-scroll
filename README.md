@@ -12,13 +12,10 @@ This template provides a modern infinite scroll solution for NationBuilder blogs
 
 ## Features
 
-- 🚀 Fast initial page load (5 posts)
+- 🚀 Fast initial page load (5 posts / customizable)
 - 📜 Smooth infinite scrolling
 - 🔄 Loading indicator
-- 📊 Post counter display
-- 💅 Consistent styling
 - ⚡️ Debounced scroll detection
-- 🎯 Edge case handling
 
 ## Implementation
 **Implementation Note**: This template modifies NationBuilder's default Bootstrap blog template and should only be used to replace existing NationBuilder blog page templates.
