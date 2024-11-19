@@ -23,6 +23,10 @@ This template provides a modern infinite scroll solution for NationBuilder blogs
 ## Implementation
 **Implementation Note**: This template modifies NationBuilder's default Bootstrap blog template and should only be used to replace existing NationBuilder blog page templates.
 
+## Demo
+
+A live implementation of this template can be viewed at [demo-blakemizelle.nationbuilder.com/test_blog](https://demo-blakemizelle.nationbuilder.com/test_blog).
+
 ### Setup
 
 1. Create or edit a blog page in NationBuilder admin
