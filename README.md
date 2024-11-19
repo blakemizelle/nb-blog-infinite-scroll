@@ -39,17 +39,9 @@ You can easily customize:
 - Post counter position/style
 - Post spacing and borders
 
-## Support
-
-For implementation support, contact your NationBuilder account representative or development team.
-
 ## Contributing
 
 This is an example implementation. Feel free to fork and customize for your specific needs.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
